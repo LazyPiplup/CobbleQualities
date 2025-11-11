@@ -10,6 +10,8 @@ CobbleQualities adds a selection of quality-of-life and cosmetic enhancement ite
 - **Refactor and organize the project files in a cleaner manner**
 - **Quit Being a Lazy Piplup**
 
+**THIS IS EMPTY FOR NOW UNTIL I REORGANIZE THE PROJECTS FILES AND NAMING ARCHITECTURE**
+
 ---
 
 ## Features
